@@ -6,4 +6,4 @@ The purpose of this project is to design an intelligent system to provide securi
 A virtual assistant that is linked to the security system of a home/office. It will identify a person at the door and inform the owner and allowing the owner to open the door for a friend or a family member with a voice command from anywhere in the house. The voice controlled assistant can also perform other tasks such as playing music, reading articles from Wikipedia, taking notes, and maby more.
 
 ### Note:
-For noe the application can only be run in Ubuntu/Raspberry pi, to understand the application please refer to the "project report".
+For noe the application can only be run in Ubuntu/Raspberry pi, to understand the application please refer to the "project report.pdf".
